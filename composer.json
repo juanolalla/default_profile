@@ -1,0 +1,18 @@
+{
+    "name": "juanolalla/default_profile",
+    "description": "A Drupal profile powered with useful default features.",
+    "type": "drupal-profile",
+    "homepage": "https://github.com/juanolalla/default_profile",
+    "authors": [
+        {
+            "name": "Juan Olalla (juanolalla)",
+            "homepage": "https://www.drupal.org/u/juanolalla",
+            "role": "Maintainer"
+        }
+    ],
+    "license": "GPL-2.0-or-later",
+    "minimum-stability": "dev",
+    "require": {
+        "drupal/olivero": "^1.0@alpha"
+    }
+}
